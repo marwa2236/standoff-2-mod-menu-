@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"standoff 2 mod menu 1","desc":"description1 ser","photo":"https://iili.io/HLO1fst.webp"},
+  {"title":"standoff 2 mod menu 2","desc":"description2 ser","photo":"https://iili.io/HLOEqTQ.webp"},
+  {"title":"standoff 2 mod menu 3","desc":"description3 ser","photo":"https://iili.io/HLOE7uR.webp"},
+  {"title":"standoff 2 mod menu 4","desc":"description4 ser","photo":"https://iili.io/HLOEU8b.webp"},
+  {"title":"standoff 2 mod menu 5","desc":"description5 ser","photo":"https://iili.io/HLOGHtp.webp"},
+  {"title":"standoff 2 mod menu 6","desc":"description6 ser","photo":"https://iili.io/HLOGi5G.webp"},
+  {"title":"standoff 2 mod menu 7","desc":"description7 ser","photo":"https://iili.io/HLOMBqP.webp"},
+  {"title":"standoff 2 mod menu 8","desc":"description8 ser","photo":"https://iili.io/HLOMXQ2.webp"}
    ]
  
 }
